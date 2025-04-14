@@ -1,0 +1,38 @@
+header{
+    height: 10vh;
+    background-color: rgb(153, 0, 0) ;
+    font
+}
+h1{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+main{
+    min-height: 80vh;
+    background-color: dimgray;
+    padding: 30px;
+}
+div{
+    border: solid 3px black;
+    background-color: white;
+    width: 30vw;
+    margin: auto;
+    margin-bottom: 20px;
+}
+img{
+    width: 20vw;
+    margin: auto;
+    display: block;
+}
+h2, p{
+    text-align: center;
+}
+span{
+    font-size: 25px;
+    color: black;
+}
+footer{
+    height: 10vh;
+    background-color:rgb(153, 0, 0);
+}
